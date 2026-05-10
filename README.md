@@ -16,3 +16,5 @@ This repository contains **intentionally vulnerable** files across all 4 securit
 ## Purpose
 
 This repo exists solely for testing Microsoft Defender for DevOps security scanning capabilities. All vulnerabilities are deliberate.
+
+// new commit
