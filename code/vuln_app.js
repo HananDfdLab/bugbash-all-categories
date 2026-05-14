@@ -7,6 +7,10 @@ function unsafeEval(userInput) {
     return eval(userInput);
 }
 
+// Pushing few lines for scanner
+// Pushing few lines for scanner
+// Pushing few lines for scanner
+
 // DOM-based XSS via innerHTML
 function displayMessage(message) {
     document.getElementById("output").innerHTML = message;
